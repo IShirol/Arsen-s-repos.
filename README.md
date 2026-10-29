@@ -1,2 +1,2 @@
-# Arsen-s-repos.
+# Ars-repos
 For learning
